@@ -19,3 +19,5 @@ Hold the power of data,
 It makes it easier to understand and explain the Data Reports,   
  
 ## Features of Tableau ##
+
+Data Blending: Data blending is the most important feature in Tableau. It is used when we combine related data from multiple data sources, which you want to analyze together in a single view, and represent in the form of a graph.
