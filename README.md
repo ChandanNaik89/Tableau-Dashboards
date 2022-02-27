@@ -26,3 +26,5 @@ Data Blending: Data blending is the most important feature in Tableau. It is use
 Real-time analysis: Real-Time Analysis makes users able to quickly understand and analyze dynamic data, when the Velocity is high, and real-time analysis of data is complicated. Tableau can help extract valuable information from fast moving data with interactive analytics.
 
 The Collaboration of data: Data analysis is not isolating task. That's why Tableau is built for collaboration. Team members can share data, make follow up queries, and forward easy-to-digest visualizations to others who could gain value from the data. Making sure everyone understands the data and can make informed decisions is critical to success.
+
+What is Data Visualization?
