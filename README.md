@@ -30,3 +30,4 @@ The Collaboration of data: Data analysis is not isolating task. That's why Table
 ## What is Data Visualization ? ##
 
 Data visualization is a graphical representation of quantitative information and data by using visual elements like graphs, charts, and maps.,
+Data visualization convert large and small data sets into visuals, which is easy to understand and process for humans.
