@@ -28,3 +28,5 @@ Real-time analysis: Real-Time Analysis makes users able to quickly understand an
 The Collaboration of data: Data analysis is not isolating task. That's why Tableau is built for collaboration. Team members can share data, make follow up queries, and forward easy-to-digest visualizations to others who could gain value from the data. Making sure everyone understands the data and can make informed decisions is critical to success.
 
 ## What is Data Visualization ? ##
+
+Data visualization is a graphical representation of quantitative information and data by using visual elements like graphs, charts, and maps.
