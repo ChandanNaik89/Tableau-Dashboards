@@ -31,3 +31,4 @@ The Collaboration of data: Data analysis is not isolating task. That's why Table
 
 Data visualization is a graphical representation of quantitative information and data by using visual elements like graphs, charts, and maps.,
 Data visualization convert large and small data sets into visuals, which is easy to understand and process for humans.,
+Data visualization tools provide accessible ways to understand outliers, patterns, and trends in the data.
