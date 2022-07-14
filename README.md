@@ -7,7 +7,7 @@ Any professional can understand the data created using Tableau.
 Tableau software doesn't require any technical or any programming skills to operate.  
 Tableau is easy and fast for creating visual dashboards.        
 
-## Why use of Tableau ##       
+## Why use of Tableau ##        
   
 Here are some reasons to use Tableau:
 Ultimate skill for Data Science, 
