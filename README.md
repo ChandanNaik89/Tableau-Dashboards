@@ -13,7 +13,7 @@ Here are some reasons to use Tableau:
 Ultimate skill for Data Science, 
 User-Friendly, 
 Apply to any Business,
-Fast and Easy,
+Fast and Easy, 
 You don't need to do any Coding,
 Community is Huge,
 Hold the power of data,
