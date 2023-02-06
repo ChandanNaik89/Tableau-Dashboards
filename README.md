@@ -11,7 +11,7 @@ Tableau is easy and fast for creating visual dashboards.
     
 Here are some reasons to use Tableau:
 Ultimate skill for Data Science, 
-User-Friendly, 
+User-Friendly,  
 Apply to any Business,
 Fast and Easy, 
 You don't need to do any Coding,
